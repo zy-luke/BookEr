@@ -1,0 +1,26 @@
+{
+    "name": "node_biye",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jsonwebtoken": "^8.5.1",
+        "koa-body": "^4.2.0",
+        "koa-bodyparser": "^4.3.0",
+        "koa-jwt": "^4.0.3",
+        "koa-router": "^10.1.1",
+        "koa-session": "^6.2.0",
+        "koa-static": "^5.0.0",
+        "koa2": "^2.0.0-alpha.7",
+        "koa2-cors": "^2.0.6",
+        "mysql": "^2.18.1",
+        "nodemon": "^2.0.15"
+    }
+}
